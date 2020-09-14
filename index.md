@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## What we’ve learned about police shootings
 
-Exemplo de pagina
+1,018 people have been shot and killed by police in the past year
+
+Check out a study on the fatal shots carried out by the United States Police since 2015.
+
 
 You can use the [editor on GitHub](https://github.com/luccidomingues/luccidomingues.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 

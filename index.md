@@ -4,6 +4,8 @@
 
 Check out a study on the fatal shots carried out by the United States Police since 2015.
 
+<h2 class="post-title"><a href="/CV/">US Police Fatal Shootings</a></h2>
+
 
 You can use the [editor on GitHub](https://github.com/luccidomingues/luccidomingues.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
